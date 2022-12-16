@@ -4,7 +4,7 @@
 #box-1{
     border: 15px solid   blue;
     background-color: lightblue;
-    width: 338px;
+    width: 300px;
     height: 150px;
     margin: 20px;
     padding: 52p;
@@ -12,7 +12,7 @@
 }
 
 p{
-    width: 300px;
+    width: 250px;
     height: 80px;
    
     border: 2px solid black;
