@@ -1,2 +1,12 @@
 
-/* Your CSS Code here. */
+#container{
+    background-color:blue;
+}
+#box{
+    border: 15px solid   lightseagreen;
+    background-color: lightblue;
+    width: 30vh;
+    margin: 20px;
+    padding: 50px;
+    
+}
