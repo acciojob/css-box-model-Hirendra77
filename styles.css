@@ -1,12 +1,21 @@
 
-#container{
-    background-color:blue;
-}
-#box{
-    border: 15px solid   lightseagreen;
+
+
+#box-1{
+    border: 15px solid   blue;
     background-color: lightblue;
-    width: 30vh;
+    width: 338px;
+    height: 150px;
     margin: 20px;
-    padding: 50px;
-    
+    padding: 52p;
+   
+}
+
+p{
+    width: 300px;
+    height: 80px;
+   
+    border: 2px solid black;
+    margin: 20px ;
+    padding: 50p 50px;
 }
